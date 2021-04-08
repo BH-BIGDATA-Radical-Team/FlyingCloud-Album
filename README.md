@@ -1,24 +1,16 @@
-# pv1.0
+<a href="https://github.com/BH-BIGDATA-Radical-Team/FlyingCloud-Album"><font size="10px" color="lightblue">FlyingCloud-Album</font></a>
 
-## Project setup
-```
-npm install
-```
+<p>
+    <span><a><img src="https://img.shields.io/badge/MIT-License-orange.svg"/></a></span>
+    <span><a><img src="https://img.shields.io/badge/Alpha-0.1.2-blue.svg"/></a></span>
+    <span><a><img src="https://img.shields.io/badge/dependence-Vue3-red.svg"/></a></span>
+    <span><a><img src="https://img.shields.io/badge/dependence-TailWindCss-yellow.svg"/></a></span>
+    <span><a><img src="https://img.shields.io/badge/dependence-Electron-black.svg"/></a></span>
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+An efficient, safe, fast and comfortable album application. It will be deployed on the windows platform
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project Introduce
 
-### Lints and fixes files
-```
-npm run lint
-```
+Writing...
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
