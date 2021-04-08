@@ -1,2 +1,24 @@
-# FlyingCloud-Album
-An efficient, safe, fast and comfortable album application. It will be deployed on the windows platform.
+# pv1.0
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
