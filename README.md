@@ -25,8 +25,8 @@ For Front-end side 👇
 
 |                            Things                            | Status |
 | :----------------------------------------------------------: | :----: |
-|            [ To 1 week ends ] develop environment            | doing  |
-| [ To 3 week ends ] get ready to use all materials and objects |  undo  |
+|            [ To 1 week ends ] develop environment            |  done  |
+| [ To 3 week ends ] get ready to use all materials and objects | doing  |
 |          [ To 4 week ends ] develop a simple frame           |  undo  |
 |         [ To 5 week ends ] try to run both two sides         |  undo  |
 | [ To 6 week ends ]  as possible as we can to try to find all possible bugs |  undo  |
@@ -38,8 +38,8 @@ For Back-end side 👇
 
 |                            Things                            | Status |
 | :----------------------------------------------------------: | :----: |
-|            [ To 1 week ends ] develop environment            | doing  |
-|       [ To 3 week ends ] get ready to use Java WebApi        |  undo  |
+|            [ To 1 week ends ] develop environment            |  done  |
+|       [ To 3 week ends ] get ready to use Java WebApi        | doing  |
 |          [ To 4 week ends ] develop a simple serve           |  undo  |
 |         [ To 5 week ends ] try to run both two sides         |  undo  |
 | [ To 6 week ends ]  as possible as we can to try to find all possible bugs |  undo  |
