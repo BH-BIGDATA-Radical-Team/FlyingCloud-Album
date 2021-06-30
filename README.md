@@ -21,7 +21,7 @@ An efficient, safe, fast and comfortable album application. It will be deployed 
 
 NeserCode/fgd/sy -- From BeiHua University Bigdata base , China.
 
-## Project Plan [ Now Counting Only 4 weeks ]
+## Project Plan [ have Stop ]
 
 we're sorry about that we can't continue to deal with it.
 we meet so much problems to deal with that our plan for other things,so we have to off it.
