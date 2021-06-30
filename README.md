@@ -23,6 +23,9 @@ NeserCode/fgd/sy -- From BeiHua University Bigdata base , China.
 
 ## Project Plan [ Now Counting Only 4 weeks ]
 
+we're sorry about that we can't continue to deal with it.
+we meet so much problems to deal with that our plan for other things,so we have to off it.
+
 For Front-end side 👇
 
 |                            Things                            | Status |
